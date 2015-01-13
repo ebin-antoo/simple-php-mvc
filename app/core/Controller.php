@@ -1,1 +1,6 @@
-Controller
+<?php
+
+class Controller
+{
+	
+}
